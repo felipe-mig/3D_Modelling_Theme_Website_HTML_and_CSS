@@ -6,6 +6,10 @@ To navigate the website**, open the index.html file in your default browser.
 
 **The website is optimized for a 16" 2560px x 1600px display with a 16:10 aspect ratio.
 
+* No frameworks
+* No AI code
+* Local content
+
 ## 📷 Screenshots
 
 ### index.html
