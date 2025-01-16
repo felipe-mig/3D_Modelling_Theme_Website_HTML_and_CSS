@@ -4,11 +4,11 @@ This project is designed to show the website of a fictitious 3D Modelling softwa
 
 To navigate the website**, open the index.html file in your default browser.
 
-**The website is optimized for a 16" 2560px x 1600px display with a 16:10 aspect ratio.
-
 * No frameworks
 * No AI code
 * Local content
+
+**The website is optimized for a 16" 2560 x 1600 screen with a 16:10 aspect ratio.
 
 ## 📷 Screenshots
 
