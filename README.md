@@ -1,6 +1,6 @@
 ## 📄 Description
 
-This project is designed to use HTML files as templates for a fictitious 3D Modelling Software business. 
+This project is based on building a website for a fictitious 3D Modelling Software company. 
 
 To navigate the website**, open the index.html file in your default browser.
 
